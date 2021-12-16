@@ -1,0 +1,85 @@
+/*Footer*/
+#contact{
+    background-color:#C81010;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#Us{
+    color: #fff;
+    font-family: 'Playfair Display';
+}
+#contact1{
+    background-color: #002633 !important;  
+}
+#contact2{
+    margin-top: 3%;
+   
+}
+H3{
+    color: #fff;
+    font-family: 'Playfair Display';
+    font-size:1.2rem;
+}
+
+#map{
+    color:#C81010 ; 
+      
+}
+#P1{
+    padding-left: 2%;
+    margin-bottom: 0;
+    color: #7697A2;  
+}
+#P2{
+    padding-left: 2%;
+    color: #7697A2;   
+}  
+#envelope{
+    color:#C81010 ; 
+     
+}
+#P3{
+    padding-left: 2%;
+    margin-bottom: 0;
+    color: #7697A2;    
+}
+#P4{
+    padding-left: 2%;
+    color: #7697A2;  
+}  
+#phone{
+    color:#C81010 ;  
+}
+
+#P5{
+    padding-left: 2%;
+    margin-bottom: 0;
+    color: #7697A2; 
+}  
+#P6{
+    padding-left: 2%;
+    margin-bottom: 0;
+    color: #7697A2;    
+}
+#P7{
+    padding-left: 2%;
+    color: #7697A2;  
+}  
+
+#liseret{
+   color: rgba(0, 38, 51, 0.80)
+}
+
+
+#bottom{
+    background-color:  #002633 !important ;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+#P8,#P9,#P10,#P11{
+    color: #7697A2; 
+    margin-bottom: 0; 
+    font-size: 12px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
